@@ -109,9 +109,13 @@
         Public repo: https://maven.wolfyscript.com/repository/public/
         -->
         <repository>
+            <id>wolfyscript-public</id>
+            <url>https://maven.wolfyscript.com/repository/public/</url>
+        </repository>
+<!--        <repository>
             <id>wolfyscript-private</id>
             <url>https://maven.wolfyscript.com/repository/private/</url>
-        </repository>
+        </repository>-->
     </repositories>
 
     <dependencies>
