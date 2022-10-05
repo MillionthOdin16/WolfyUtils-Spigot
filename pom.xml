@@ -112,6 +112,10 @@
             <id>wolfyscript-public</id>
             <url>https://maven.wolfyscript.com/repository/public/</url>
         </repository>
+        <repository>
+            <id>bradarrrepo-releases</id>
+            <url>http://node2.bradarr.com:3801/releases</url>
+        </repository>
 <!--        <repository>
             <id>wolfyscript-private</id>
             <url>https://maven.wolfyscript.com/repository/private/</url>
